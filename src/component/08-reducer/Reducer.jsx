@@ -146,6 +146,7 @@ const Reducer = () => {
                     value={descripcion}
                     onChange={setValor}
                     className="form-control"
+                    
                     />
 
                     <button className="btn btn-primary btn-block mt-2">Agregar</button>
